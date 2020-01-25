@@ -1,2 +1,15 @@
 .vscode
 *.sw[op]
+__pycache__
+.idea
+venv
+.idea/.gitignore
+.idea/Sprint-Challenge--Intro-Python.iml
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/saveactions_settings.xml
+.idea/vcs.xml
+src/oop/__pycache__/
+venv/
